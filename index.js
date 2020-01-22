@@ -3229,4 +3229,4 @@ client.on("message", msg => {
 	}
  
 })
-client.login("NjY3NzczNjUwNzU3MjIyNDAy.XiHmzw.dFfsRVknxAfSrcsd-r2RZsVTMac");
+client.login("BOT_TOKEN");
